@@ -1,0 +1,9 @@
+{
+  "name": "task-view",
+  "version": "0.1.0",
+  "description": "侧边面板：子代理的完整过程，后台 shell 的完整命令和实时输出",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Molun0301"
+  }
+}
